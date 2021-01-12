@@ -1,0 +1,1 @@
+java -jar DynaBlaster_App.jar

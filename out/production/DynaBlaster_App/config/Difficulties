@@ -1,0 +1,4 @@
+# First number represents HP, the rest represents initial number of the bombs
+Easy = 10;15
+Medium = 5;25
+Hard = 3;15
